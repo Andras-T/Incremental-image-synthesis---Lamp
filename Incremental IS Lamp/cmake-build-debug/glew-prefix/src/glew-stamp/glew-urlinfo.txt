@@ -1,3 +1,0 @@
-repository='external project URL'
-module='https://downloads.sourceforge.net/project/glew/glew/2.1.0/glew-2.1.0-win32.zip'
-tag=''
